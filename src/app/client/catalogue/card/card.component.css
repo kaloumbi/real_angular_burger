@@ -10,3 +10,13 @@
 .card{
     height: 20rem;
 }
+
+.own_img{
+    height: 10em;
+    width: auto;
+}
+
+.card-body{
+    background-color: lightgray;
+    align-items: center;
+}
