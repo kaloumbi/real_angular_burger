@@ -1,0 +1,12 @@
+
+.cardcontain{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+}
+
+
+.card{
+    height: 20rem;
+}
